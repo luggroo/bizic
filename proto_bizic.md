@@ -7,5 +7,7 @@ This study reconstructs the phonology of Proto-Bizic, the lowest ancestor langua
 
 ### Access
 [Official submitted version](https://drive.google.com/file/d/1zjB6Hq_PHqqsid3Mw3guLfXJKDykEYom/view?usp=sharing)
+
 [Computer-friendly version with typographical corrections](https://drive.google.com/file/d/1KzWEWXuY4CoZ7iVeOYcukKF42nv7HM4x/view?usp=sharing)
+
 [Folders for maps and the table of gloss](https://drive.google.com/file/d/1KzWEWXuY4CoZ7iVeOYcukKF42nv7HM4x/view?usp=sharing)
