@@ -1,5 +1,6 @@
-# Proto-Bizic: A Study of Tujia Historical Phonology
-A thesis submitted by Yulou Zhou to the Department of Linguistics of Stanford University for the Honors Degree of Bachelor of Arts on Dec 4, 2020
+# Proto-Bizic: A Study of Tujia Historical Phonology (2020)
+A thesis submitted by Yulou Zhou to the Department of Linguistics of Stanford University for the Honors Degree of Bachelor of Arts
+
 Supervised by Paul Kiparsky and Dominic Yu
 
 ### Abstract
